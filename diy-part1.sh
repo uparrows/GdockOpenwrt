@@ -16,3 +16,4 @@
 # Add a feed source
 echo 'src-link custom /usr/src/openwrt/custom-feed' >>feeds.conf.default
 echo 'src-git darkmatter git://github.com/apollo-ng/luci-theme-darkmatter.git' >>feeds.conf.default
+echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
