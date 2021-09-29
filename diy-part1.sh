@@ -17,7 +17,4 @@
 echo 'src-link custom /usr/src/openwrt/custom-feed' >>feeds.conf.default
 echo 'src-git darkmatter git://github.com/apollo-ng/luci-theme-darkmatter.git' >>feeds.conf.default
 echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
-echo 'src-git rosy git://github.com/rosywrt/luci-theme-rosy.git' >>feeds.conf.default
-echo 'src-git edge git://github.com/VPN-V2Ray/luci-theme-edge.git' >>feeds.conf.default
-echo 'src-git opentomato git://github.com/solidus1983/luci-theme-opentomato.git' >>feeds.conf.default
-echo 'src-git infinityfreedom git://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom.git' >>feeds.conf.default
+
